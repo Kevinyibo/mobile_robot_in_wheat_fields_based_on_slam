@@ -19,4 +19,5 @@ The robot could successfully achieve autonomous navigation and obstacle avoidanc
 
 ## Author
 Yibo Zhou
+
 College of Mechanical and Electronic Engineering, Northwest A&F University
