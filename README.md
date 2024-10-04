@@ -11,3 +11,6 @@ The upper-level module primarily consists of a Raspberry Pi and a 2D lidar. The 
 
 The robot was tested in a real wheat field, constructing a 2D map as follows:
 <p align="center"><img src="img/mapping.gif" alt="Slam Mapping" width="80%"/></p>
+
+The robot can successfully achieve autonomous navigation and obstacle avoidance as follows:
+<p align="center"><img src="img/Autonomous_Navigation.gif" alt="Autonomous Navigation" width="80%"/></p>
