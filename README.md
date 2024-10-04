@@ -14,3 +14,5 @@ The robot was tested in a real wheat field, constructing a 2D map as follows:
 
 The robot can successfully achieve autonomous navigation and obstacle avoidance as follows:
 <p align="center"><img src="img/Autonomous_Navigation.gif" alt="Autonomous Navigation" width="80%"/></p>
+
+<p align="center"><img src="img/Obstacle_Avoidance.gif" alt="Obstacle Avoidance" width="80%"/></p>
