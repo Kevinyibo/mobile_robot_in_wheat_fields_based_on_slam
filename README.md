@@ -16,3 +16,7 @@ The robot could successfully achieve autonomous navigation and obstacle avoidanc
 <p align="center"><img src="img/Autonomous_Navigation.gif" alt="Autonomous Navigation" width="80%"/></p>
 
 <p align="center"><img src="img/Obstacle_Avoidance.gif" alt="Obstacle Avoidance" width="80%"/></p>
+
+## Author
+Yibo Zhou
+College of Mechanical and Electronic Engineering, Northwest A&F University
